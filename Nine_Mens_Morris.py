@@ -1,14 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-MATH20621 - Coursework 3
-Student name: <Chung-Yu Wei>
-Student id:   <10680317>
-Student mail: <chung-yu.wei@studnet.manchester.ac.uk>
-
-Do not change any part of this string except to replace
-the <tags> with your name, id and university email address.
-"""
-
 def request_location(question_str):
     loc = int(input(question_str))
     if loc<0 or loc>=24:
