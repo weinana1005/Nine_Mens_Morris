@@ -27,16 +27,12 @@ This repository is about board game "Nine Men's Morris" with logic implementatio
 
 ## How to Run
 1. **Install Python** (if not already installed).
-2. **Run a specific coursework file**:
+2. **Run the file**:
    ```bash
-   python coursework1.py
-   python coursework2.py
-   python coursework_3.py
+   Nine_Mens_Morris.py
    ```
 3. **Follow on-screen prompts for interactive functionality**.
 
 ## Summary of Learning Outcomes
-- **Mathematical Programming**: Implemented numerical computations and algorithms.
-- **Card Game Simulation**: Developed logic for deck creation, shuffling, and dealing.
 - **Board Game Implementation**: Created a functional **Nine Men's Morris** game with interactive play and game state persistence.
 
